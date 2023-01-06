@@ -5,7 +5,7 @@
 
 ##Process
 1. roboflow를 활용하여 라벨링 진행
-  - <img src="img/roboflow.jpg">
+  - <img src="./img/roboflow.jpg">
   - 데이터의 양이 적어서 수평, 수직으로 변형을 주어 학습량을 늘림
 
 2. 가중치를 YOLOv7-X로 주고 학습을 진행
